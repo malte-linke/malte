@@ -3,7 +3,7 @@ module.exports = {
     email: "malte.linke.ml@gmail.com",
     title: "Self-taught Full Stack developer",
     github: "malte-linke",
-    discord: "mxpyaBJefM",
+    discord: "ffJmNHPzY9",
     twitter: "malte_linke",
     contact: "http://social.parzival-dev.eu/",
     urls: []
