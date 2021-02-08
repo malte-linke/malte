@@ -1,9 +1,9 @@
 {
   "name": "malte",
   "version": "1.0.3",
-  "description": "",
-  "main": "./cli.js",
-  "bin": "./cli.js",
+  "description": "NPX Card",
+  "main": "./index.js",
+  "bin": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
