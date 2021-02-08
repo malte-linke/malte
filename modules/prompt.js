@@ -1,6 +1,7 @@
 const inquirer = require("inquirer");
 const prompt = inquirer.createPromptModule();
 const open = require("open");
+const data = require('./about');
 const chalk = require("chalk");
 
 
