@@ -5,7 +5,7 @@ module.exports = {
     github: "malte-linke",
     discord: {
         server: "ffJmNHPzY9",
-        username: "𝒫𝒶𝓇𝓏𝒾𝓋𝒶𝓁™#5075"
+        username: "Parzival™#5075"
     },
     twitter: "malte_linke",
     contact: "http://social.parzival-dev.eu/",
