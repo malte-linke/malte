@@ -21,7 +21,7 @@ const options = [
             {
                 name: `Join my ${chalk.magentaBright.bold("Discord")}?`,
                 value: () => {
-                    open(`http://discord.gg/${data.discord}`);
+                    open(`http://discord.gg/${data.discord.server}`);
                     console.log("\nDone, see you soon at Discord.\n");
                 }
             },

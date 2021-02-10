@@ -11,6 +11,7 @@ const me = boxen(
         ``,
         `${chalk.bold("Twitter:")}   ${data.twitter}`,
         `${chalk.bold("GitHub:")}    ${data.github}`,
+        `${chalk.bold("Discord:")}   ${data.discord.username}`,
         `${chalk.bold("Contact:")}   ${data.contact}`,
         ``,
         `${chalk.white("My inbox is always open. Whether you have a")}`,
