@@ -8,6 +8,6 @@ module.exports = {
         username: "Parzival#0002"
     },
     twitter: "malte_linke",
-    contact: "http://social.parzival-dev.eu/",
+    contact: "https://malte-linke.com",
     urls: []
 }
