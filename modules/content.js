@@ -1,7 +1,6 @@
 const chalk = require("chalk");
-const data = require('./about');
-const boxen = require('boxen');
-
+const data = require("./about");
+const boxen = require("boxen");
 
 const me = boxen(
   [
@@ -16,16 +15,15 @@ const me = boxen(
     ``,
     `${chalk.white("My inbox is always open. Whether you have a")}`,
     `${chalk.white("question or just want to say hi, I will try ")}`,
-    `${chalk.white("my best to get back to you!")}`
+    `${chalk.white("my best to get back to you!")}`,
   ].join("\n"),
   {
     margin: 1,
-    float: 'center',
+    float: "center",
     padding: 1,
     borderStyle: "single",
-    borderColor: "green"
+    borderColor: "green",
   }
 );
-
 
 module.exports = () => console.log(me);
