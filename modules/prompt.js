@@ -3,6 +3,7 @@ const prompt = inquirer.createPromptModule();
 const open = require("open");
 const data = require("./about");
 const chalk = require("chalk");
+const { spawn } = require("child_process");
 
 const options = [
   {
@@ -18,9 +19,9 @@ const options = [
         },
       },
       {
-        name: `Join my ${chalk.magentaBright.bold("Discord")}?`,
+        name: `Contact me on ${chalk.magentaBright.bold("Discord")}?`,
         value: () => {
-          open(`http://discord.gg/${data.discord.server}`);
+          open(`https://discord.com/users/${data.discord.id}`);
           console.log("\nDone, see you soon at Discord.\n");
         },
       },

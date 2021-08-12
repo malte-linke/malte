@@ -4,7 +4,7 @@ module.exports = {
   title: "Hobby Software Developer",
   github: "malte-linke",
   discord: {
-    server: "ffJmNHPzY9",
+    id: "249877580180750336",
     username: "Parzival#0002",
   },
   twitter: "malte_linke",
