@@ -12,7 +12,7 @@
     "email": "malte.linke.ml@gmail.com",
     "name": "malte-linke"
   },
-  "license": "ISC",
+  "license": "GNU-3.0-or-newer",
   "dependencies": {
     "boxen": "^5.0.0",
     "chalk": "^4.1.0",
