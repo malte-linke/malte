@@ -22,7 +22,7 @@ const me = boxen(
     float: "center",
     padding: 1,
     borderStyle: "single",
-    borderColor: "green",
+    borderColor: "cyan",
   }
 );
 

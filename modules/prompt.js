@@ -3,7 +3,6 @@ const prompt = inquirer.createPromptModule();
 const open = require("open");
 const data = require("./about");
 const chalk = require("chalk");
-const { spawn } = require("child_process");
 
 const options = [
   {
